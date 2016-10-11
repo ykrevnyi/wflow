@@ -1,0 +1,3 @@
+#!groovy
+
+echo 'hello world'
